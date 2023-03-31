@@ -1,0 +1,25 @@
+Pokemon
+- 3 pokemons e mostrar em cada:
+@ Tipo;
+@ Evolução;
+__________________________________________
+1° Pokemon:
+Id: 2
+Nome: Charmander
+Tipo: Fire
+Evolução: charmeleon, charizard
+
+2° Pokemon:
+Id: 10
+Nome: Pikachu
+Tipo: Electric 
+Evolução: raichu
+
+3° Pokemon:
+Id: 4
+Nome: Caterpie
+Tipo: Bug
+Evolução: metapod, butterfree
+________________________________________________________________
+Para pesquisar a Evolução:
+https://pokeapi.co/api/v2/evolution-chain/{id}/
