@@ -1,10 +1,10 @@
-🌪<h1>Desafio Fábrica de Software</h1> 🌪
+<h1>🌪Desafio Fábrica de Software 🌪</h1> 
 
-🐍<p>Cria um CRUD em Django rest</p>🐍
+<p>🐍 Cria um CRUD em Django rest 🐍</p>
 
-📚<h2>TEMA: ESCOLA / CURSINHOS</h2>📚
+<h2>📚 TEMA: ESCOLA / CURSINHOS 📚</h2>
 
-🖥<h3>Como utilizar:</h3>🖥
+<h3>Como utilizar: 🖥</h3>
 <ul>
   <li>Baixe os arquivos e utilize uma IDE, como por exemplo Pycharm ou VsCode.</li>
   <li>Crie um ambiente virtual utilizando o comando 'python -m venv <nome_da_venv>' no terminal.</li>
@@ -13,7 +13,7 @@
   <li>Agora é só iniciar o server</li>
 </ul>
 
-❓ <h3>O que faz a aplicação?</h3>❓ 
+<h3>O que faz a aplicação?❓</h3>
 <ul>
   <li>Adicionar Alunos no cadastro</li>
   <li>Remover Alunos do cadastro</li>
